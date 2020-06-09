@@ -1,3 +1,7 @@
+This is the bash cheat sheet, below are extremely helpful
+commands that you can use to help you navigate
+and use the terminal to its full potential!
+
 exit - exits the bash shell!
 
 cd <path> - change to the directory given; with no 
