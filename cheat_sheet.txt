@@ -7,7 +7,9 @@ exit - exits the bash shell!
 cd <path> - change to the directory given; with no 
 arguments, chdir to the home directory; with a '-' 
 as the only argument, chdirs to directory
-previously in, the same as what tcsh does. 
+previously in, the same as what tcsh does. Also, 
+using cd with a '../' as the only argument will
+bring you to the previous directory you were in.
 
 
 pwd - print the current working directory. 
